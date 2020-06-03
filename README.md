@@ -9,13 +9,13 @@
 		h:"151",//弹窗的高
 		hint:"提示",
 		content:"自定义消息内容",
-		callback:play//回调函数
+		callback:go//回调函数
 	};
 	
 	回调函数
-	function play(){
-		console.log("回调函数");
+	function go(){
+		console.log("自定义消息内容");
 	}
 + 3联系方式
-+ vx：
-+ qq:1
++ vx：18135321875
++ qq:3056545523
